@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+notebooks/
+*.ipynb
+.ipynb_checkpoints/
+
+# Data (PHI or otherwise)
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.sqlite
+*.db
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
